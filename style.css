@@ -19,6 +19,7 @@ p{font-size: 16px;letter-spacing: 0.5px;}
         width: 100%;
         height: 450px;
     }
+    .my-modal ,.w-50{text-align: center; width: 100%; margin: 0 auto;}
 }
 @media screen and (min-width:320px) and (max-width: 576px) {
     .carousel-caption h1{
@@ -32,5 +33,6 @@ p{font-size: 16px;letter-spacing: 0.5px;}
     img{
         width: 100%;
     }
+    .my-modal ,.w-50{text-align: center; width: 100%; margin: 0 auto;}
 
 }
